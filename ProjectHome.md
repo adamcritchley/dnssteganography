@@ -1,0 +1,1 @@
+Stego-Client and Stego-Server for Unix systems that demonstrate data hiding using the DNS FQDN Compression scheme. For starters, capture a DNS Query for Microsoft using Wireshark and gather the DNS Address for OpenDNS. Completed project for the Steganography class taken at The University of Texas at San Antonio.
